@@ -1,0 +1,15 @@
+D:\Piedteam\Tetpee01\TetPee01.Service\bin\Debug\net8.0\TetPee01.Service.deps.json
+D:\Piedteam\Tetpee01\TetPee01.Service\bin\Debug\net8.0\TetPee01.Service.dll
+D:\Piedteam\Tetpee01\TetPee01.Service\bin\Debug\net8.0\TetPee01.Service.pdb
+D:\Piedteam\Tetpee01\TetPee01.Service\bin\Debug\net8.0\TetPee01.Repository.dll
+D:\Piedteam\Tetpee01\TetPee01.Service\bin\Debug\net8.0\TetPee01.Repository.pdb
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.Service.csproj.AssemblyReference.cache
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.Service.AssemblyInfoInputs.cache
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.Service.AssemblyInfo.cs
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.Service.csproj.CoreCompileInputs.cache
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.000AD5FE.Up2Date
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.Service.dll
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\refint\TetPee01.Service.dll
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\TetPee01.Service.pdb
+D:\Piedteam\Tetpee01\TetPee01.Service\obj\Debug\net8.0\ref\TetPee01.Service.dll

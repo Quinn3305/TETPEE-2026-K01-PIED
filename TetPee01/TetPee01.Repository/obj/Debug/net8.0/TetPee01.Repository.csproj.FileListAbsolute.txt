@@ -1,0 +1,14 @@
+D:\Piedteam\Tetpee01\TetPee01.Repository\bin\Debug\net8.0\TetPee01.Repository.deps.json
+D:\Piedteam\Tetpee01\TetPee01.Repository\bin\Debug\net8.0\TetPee01.Repository.runtimeconfig.json
+D:\Piedteam\Tetpee01\TetPee01.Repository\bin\Debug\net8.0\TetPee01.Repository.dll
+D:\Piedteam\Tetpee01\TetPee01.Repository\bin\Debug\net8.0\TetPee01.Repository.pdb
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.csproj.AssemblyReference.cache
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.AssemblyInfoInputs.cache
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.AssemblyInfo.cs
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.csproj.CoreCompileInputs.cache
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.dll
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\refint\TetPee01.Repository.dll
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.pdb
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\TetPee01.Repository.genruntimeconfig.cache
+D:\Piedteam\Tetpee01\TetPee01.Repository\obj\Debug\net8.0\ref\TetPee01.Repository.dll

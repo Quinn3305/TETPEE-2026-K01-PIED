@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetPee01.Api", "TetPee01.Api\TetPee01.Api.csproj", "{8A581876-3CEB-48F4-B209-9A0D2333C232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetPee01.Service", "TetPee01.Service\TetPee01.Service.csproj", "{1332AD14-64A4-43F2-8A5C-751B0D340E4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetPee01.Repository", "TetPee01.Repository\TetPee01.Repository.csproj", "{7F68352D-3AF8-4DD2-B55C-E898D7719E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A581876-3CEB-48F4-B209-9A0D2333C232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A581876-3CEB-48F4-B209-9A0D2333C232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A581876-3CEB-48F4-B209-9A0D2333C232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A581876-3CEB-48F4-B209-9A0D2333C232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1332AD14-64A4-43F2-8A5C-751B0D340E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1332AD14-64A4-43F2-8A5C-751B0D340E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1332AD14-64A4-43F2-8A5C-751B0D340E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1332AD14-64A4-43F2-8A5C-751B0D340E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F68352D-3AF8-4DD2-B55C-E898D7719E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F68352D-3AF8-4DD2-B55C-E898D7719E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F68352D-3AF8-4DD2-B55C-E898D7719E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F68352D-3AF8-4DD2-B55C-E898D7719E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
